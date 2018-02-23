@@ -1,5 +1,7 @@
 # eslint-config-akameco
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/eslint-config-akameco.svg)](https://greenkeeper.io/)
+
 > ESLint shareable config for me
 
 
